@@ -203,12 +203,9 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
                             <constraint firstItem="ra1-fa-MFk" firstAttribute="trailing" secondItem="ABY-6W-LZT" secondAttribute="trailing" constant="28" id="09h-0C-FSM"/>
-                            <constraint firstItem="ABY-6W-LZT" firstAttribute="top" secondItem="aow-GE-uiU" secondAttribute="bottom" constant="42" id="0dF-tq-0hz"/>
-                            <constraint firstItem="ABY-6W-LZT" firstAttribute="top" secondItem="aow-GE-uiU" secondAttribute="bottom" constant="22" id="11q-5y-WL4"/>
                             <constraint firstItem="IuW-T0-sD8" firstAttribute="leading" secondItem="ra1-fa-MFk" secondAttribute="leading" constant="20" id="3vh-8r-bvW"/>
                             <constraint firstItem="aow-GE-uiU" firstAttribute="leading" secondItem="ra1-fa-MFk" secondAttribute="leading" constant="20" id="ALD-jf-veE"/>
                             <constraint firstItem="ra1-fa-MFk" firstAttribute="trailing" secondItem="IuW-T0-sD8" secondAttribute="trailing" constant="28" id="WEH-KD-fhJ"/>
-                            <constraint firstItem="ABY-6W-LZT" firstAttribute="top" secondItem="aow-GE-uiU" secondAttribute="bottom" constant="42" id="ilw-Bp-sEs"/>
                             <constraint firstItem="ABY-6W-LZT" firstAttribute="top" secondItem="aow-GE-uiU" secondAttribute="bottom" constant="30" id="oEl-pb-Rdl"/>
                             <constraint firstItem="IuW-T0-sD8" firstAttribute="top" secondItem="ra1-fa-MFk" secondAttribute="top" constant="20" id="ot9-kP-HSj"/>
                             <constraint firstItem="ABY-6W-LZT" firstAttribute="leading" secondItem="ra1-fa-MFk" secondAttribute="leading" constant="20" id="qaT-pD-7WU"/>
